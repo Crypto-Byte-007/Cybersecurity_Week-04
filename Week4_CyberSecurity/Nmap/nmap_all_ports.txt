@@ -1,0 +1,8 @@
+# Nmap 7.99 scan initiated Wed Sep 30 19:01:52 2026 as: /usr/lib/nmap/nmap --privileged -p- -oN nmap_all_ports.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.000010s latency).
+Not shown: 65534 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+
+# Nmap done at Wed Sep 30 19:01:53 2026 -- 1 IP address (1 host up) scanned in 0.73 seconds
